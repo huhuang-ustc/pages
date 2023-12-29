@@ -89,7 +89,7 @@ author:
   googlescholar    : #""
   email            : "h.huang@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://huanghu-pku.github.io/pages/"
+  uri              : #"https://huanghu-pku.github.io/pages/"
   bitbucket        :
   codepen          :
   dribbble         :
