@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ### 概述
 黄虎，博士，高级工程师，北京大学深圳研究生院副研究员，广东省公共服务供给智能计算重点实验室执行主任，中国中文信息学会社会媒体处理专委会委员。
 <br/><br/>
@@ -21,8 +20,8 @@ redirect_from:
 
 ## 教育经历
 1. 博士,网络空间安全,[中国科学技术大学](https://www.ustc.edu.cn/)
-2. 硕士,地理学,北京大学
-3. 本科,城市规划,华中科技大学
+2. 硕士,地理学,[北京大学](https://www.pku.edu.cn/)
+3. 本科,城市规划,[华中科技大学](https://www.hust.edu.cn/)
 <br/><br/>
 
 
@@ -35,10 +34,10 @@ redirect_from:
 
 
 ## 近期论文
-1. Hu Huang, Bowen Zhang, Liwen Jing, Xianghua Fu, Xiaojun Chen, and Jianyang Shi. "Logic tensor network with massive learned knowledge for aspect-based sentiment analysis." Knowledge-Based Systems 257 (2022): 109943. 
-2. Hu Huang, Bowen Zhang, Yangyang Li, Baoquan Zhang, Yuxi Sun, Chuyao Luo, and Cheng Peng. "Knowledge-enhanced Prompt-tuning for Stance Detection." ACM Transactions on Asian and Low-Resource Language Information Processing 22, no. 6 (2023): 1-20.
-3. Zhang, Bowen, Xu Huang, Zhichao Huang, Hu Huang, Baoquan Zhang, Xianghua Fu, and Liwen Jing. "Sentiment interpretable logic tensor network for aspect-term sentiment analysis." In Proceedings of the 29th International Conference on Computational Linguistics, pp. 6705-6714. 2022. 
-4. Chen Y, Li X, Liu X, H Huang, S Ma. Simulating urban growth boundaries using a patch-based cellular automaton with economic and ecological constraints[J]. International Journal of Geographical Information Science, 2019, 33(1): 55-80. 
+1. Hu Huang, Bowen Zhang, Liwen Jing, Xianghua Fu, Xiaojun Chen, and Jianyang Shi. "[Logic tensor network with massive learned knowledge for aspect-based sentiment analysis.](https://www.sciencedirect.com/science/article/abs/pii/S095070512201036X)" Knowledge-Based Systems 257 (2022): 109943. 
+2. Hu Huang, Bowen Zhang, Yangyang Li, Baoquan Zhang, Yuxi Sun, Chuyao Luo, and Cheng Peng. "[Knowledge-enhanced Prompt-tuning for Stance Detection.](http://www.liyangyang.com/wp-content/uploads/2023/06/TALLIP23-StanceDetection-YangyangLi.pdf)" ACM Transactions on Asian and Low-Resource Language Information Processing 22, no. 6 (2023): 1-20.
+3. Zhang, Bowen, Xu Huang, Zhichao Huang, Hu Huang, Baoquan Zhang, Xianghua Fu, and Liwen Jing. "[Sentiment interpretable logic tensor network for aspect-term sentiment analysis.](https://aclanthology.org/2022.coling-1.582.pdf)" In Proceedings of the 29th International Conference on Computational Linguistics, pp. 6705-6714. 2022. 
+4. Chen Y, Li X, Liu X, H Huang, S Ma. [Simulating urban growth boundaries using a patch-based cellular automaton with economic and ecological constraints](https://www.tandfonline.com/doi/abs/10.1080/13658816.2018.1514119)[J]. International Journal of Geographical Information Science, 2019, 33(1): 55-80. 
 <br/><br/>
 
 
@@ -53,7 +52,7 @@ redirect_from:
 <br/><br/>
 
 ## 学术兼职
-1. 中文信息学会社会媒体处理专委会 专家委员
+1. [中文信息学会社会媒体处理专委会](https://www.cipsc.org.cn/index.aspx) 专家委员
 2. 北京社区研究中心 专家委员
 3. 担任全国自然资源与国土空间规划标准化技术委员会TC93/SC4 顾问专家
 <br/><br/>
