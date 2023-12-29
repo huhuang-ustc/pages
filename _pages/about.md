@@ -21,9 +21,9 @@ Huang Hu, Ph.D. in Engineering, senior engineer, associate researcher at Peking 
 
 
 ## Educational Experience
-1. Ph.D. in Engineering &emsp;&emsp; Cyberspace Security   [University of Science and Technology of China](https://www.ustc.edu.cn/)
-2. Master   Geography   [Peking University](https://www.pku.edu.cn/)
-3. Undergraduate   Urban Planning   [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+1. Ph.D. in Engineering &emsp; Cyberspace Security &emsp; [University of Science and Technology of China](https://www.ustc.edu.cn/)
+2. Master &emsp; Geography &emsp; [Peking University](https://www.pku.edu.cn/)
+3. Undergraduate  &emsp; Urban Planning  &emsp; [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 <br/><br/>
 
 
