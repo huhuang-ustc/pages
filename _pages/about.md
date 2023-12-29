@@ -21,9 +21,9 @@ Huang Hu, Ph.D. in Engineering, senior engineer, associate researcher at Peking 
 
 
 ## Educational Experience
-1. Ph.D. in Engineering &emsp; Cyberspace Security &emsp; [University of Science and Technology of China](https://www.ustc.edu.cn/)
-2. Master &emsp; Geography &emsp; [Peking University](https://www.pku.edu.cn/)
-3. Undergraduate  &emsp; Urban Planning  &emsp; [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+1. Ph.D. in Engineering &ensp; Cyberspace Security &ensp; [University of Science and Technology of China](https://www.ustc.edu.cn/)
+2. Master &ensp; Geography &ensp; [Peking University](https://www.pku.edu.cn/)
+3. Undergraduate  &ensp; Urban Planning  &ensp; [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 <br/><br/>
 
 
@@ -54,7 +54,7 @@ Huang Hu, Ph.D. in Engineering, senior engineer, associate researcher at Peking 
 <br/><br/>
 
 ## Academic Part-Time
-1. the Social Media Processing Committee of [the Chinese Information Society](https://www.cipsc.org.cn/index.aspx)  &emsp; Expert member 
-2. Beijing Community Research Center &emsp;  Expert member
-3. National Technical Committee for Standardization of Natural Resources and Land Spatial Planning TC93/SC4  &emsp; consultant expert
+1. the Social Media Processing Committee of [the Chinese Information Society](https://www.cipsc.org.cn/index.aspx) ---- Expert member 
+2. Beijing Community Research Center ---- Expert member
+3. National Technical Committee for Standardization of Natural Resources and Land Spatial Planning TC93/SC4 ---- consultant expert
 <br/><br/>
