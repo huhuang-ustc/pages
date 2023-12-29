@@ -54,7 +54,7 @@ Huang Hu, Ph.D. in Engineering, senior engineer, associate researcher at Peking 
 <br/><br/>
 
 ## Academic Part-Time
-1. the Social Media Processing Committee of [the Chinese Information Society](https://www.cipsc.org.cn/index.aspx)  Expert member 
-2. Beijing Community Research Center  Expert member
-3. National Technical Committee for Standardization of Natural Resources and Land Spatial Planning TC93/SC4  consultant expert
+1. the Social Media Processing Committee of [the Chinese Information Society](https://www.cipsc.org.cn/index.aspx)  &emsp; Expert member 
+2. Beijing Community Research Center &emsp;  Expert member
+3. National Technical Committee for Standardization of Natural Resources and Land Spatial Planning TC93/SC4  &emsp; consultant expert
 <br/><br/>
