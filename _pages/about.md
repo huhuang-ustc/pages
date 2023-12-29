@@ -14,9 +14,9 @@ Huang Hu, Ph.D. in Engineering, Senior Engineer, Associate Researcher Fellow at 
 <br/><br/>
    
 ## research Interests
-1. social computing
-2. cyberspace science
-3. urban cognition
+1. Social Computing
+2. Cyberspace Science and Technology 
+3. Urban Cognition
 <br/><br/>
 
 
