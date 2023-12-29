@@ -10,7 +10,7 @@ redirect_from:
 
   
 ## Introduction
-Huang Hu, Ph.D. in Engineering, senior engineer, associate researcher at Peking University Shenzhen Graduate School, executive director of the Guangdong Provincial Key Laboratory of Intelligent Computing for Public Service Supply, and member of the Social Media Management Committee of the Chinese Information Society of China.
+Huang Hu, Ph.D. in Engineering, Senior Engineer, Associate Researcher Fellow at Peking University Shenzhen Graduate School, Executive Director of the Guangdong Provincial Key Laboratory of Intelligent Computing for Public Service Supply, and Member of the Social Media Processing Expert Committee of the Chinese Information Society. 
 <br/><br/>
    
 ## research Interests
