@@ -12,9 +12,9 @@ redirect_from:
 
 研究兴趣：
 ======
-1.社会计算
-2.网络空间科学
-3.城市认知
+1. 社会计算
+2. 网络空间科学
+3. 城市认知
 
 教育经历:
 ======
@@ -51,8 +51,3 @@ redirect_from:
 1.中文信息学会社会媒体处理专委会 专家委员
 2.北京社区研究中心 专家委员
 3.担任全国自然资源与国土空间规划标准化技术委员会TC93/SC4 顾问专家
-
-# For more info
-# ------
-# More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme]# 
-# ###(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
