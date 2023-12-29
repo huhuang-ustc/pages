@@ -52,7 +52,7 @@ redirect_from:
 <br/><br/>
 
 ## 学术兼职
-1. [中文信息学会社会媒体处理专委会](https://www.cipsc.org.cn/index.aspx) 专家委员
+1. [中文信息学会](https://www.cipsc.org.cn/index.aspx)社会媒体处理专委会 专家委员
 2. 北京社区研究中心 专家委员
 3. 担任全国自然资源与国土空间规划标准化技术委员会TC93/SC4 顾问专家
 <br/><br/>
