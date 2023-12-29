@@ -12,17 +12,23 @@ redirect_from:
 ======
 黄虎，博士，高级工程师，北京大学深圳研究生院副研究员，广东省公共服务供给智能计算重点实验室执行主任，中国中文信息学会社会媒体处理专委会委员。
 
+
+
 研究兴趣：
 ======
 1. 社会计算
 2. 网络空间科学
 3. 城市认知
 
+
+
 教育经历:
 ======
 1. 博士,网络空间安全,中国科学技术大学
 2. 硕士,地理学,北京大学
 3. 本科,城市规划,华中科技大学
+
+
 
 主要科研活动：
 ======
@@ -31,12 +37,16 @@ redirect_from:
 3. 国家科技部, 国家重点研发计划, 2018YFB2100604, “城市空间采集、建模与虚实融合动态仿真系 统”项目课题四“城市空间虚实融合动态仿真系统及其应用示范”, 2019-07 至 2022-06, 694万元，参与
 4. 深圳市科创委, 科技计划项目, KJYY20170724141920841, 智慧交通四维监控分析平台, 2018-04 至 2020-03
 
+
+
 近期论文：
 ======
 1. Hu Huang, Bowen Zhang, Liwen Jing, Xianghua Fu, Xiaojun Chen, and Jianyang Shi. "Logic tensor network with massive learned knowledge for aspect-based sentiment analysis." Knowledge-Based Systems 257 (2022): 109943. 
 2. Hu Huang, Bowen Zhang, Yangyang Li, Baoquan Zhang, Yuxi Sun, Chuyao Luo, and Cheng Peng. "Knowledge-enhanced Prompt-tuning for Stance Detection." ACM Transactions on Asian and Low-Resource Language Information Processing 22, no. 6 (2023): 1-20.
 3. Zhang, Bowen, Xu Huang, Zhichao Huang, Hu Huang, Baoquan Zhang, Xianghua Fu, and Liwen Jing. "Sentiment interpretable logic tensor network for aspect-term sentiment analysis." In Proceedings of the 29th International Conference on Computational Linguistics, pp. 6705-6714. 2022. 
 4. Chen Y, Li X, Liu X, H Huang, S Ma. Simulating urban growth boundaries using a patch-based cellular automaton with economic and ecological constraints[J]. International Journal of Geographical Information Science, 2019, 33(1): 55-80. 
+
+
 
 授权发明专利：
 ======
