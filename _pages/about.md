@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-概述：
+概述
 ======
 黄虎，博士，高级工程师，北京大学深圳研究生院副研究员，广东省公共服务供给智能计算重点实验室执行主任，中国中文信息学会社会媒体处理专委会委员。
 
 
 
-研究兴趣：
+<big><strong>研究兴趣</strong></big>
 ======
 1. 社会计算
 2. 网络空间科学
@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-教育经历:
+教育经历
 ======
 1. 博士,网络空间安全,[中国科学技术大学](https://www.ustc.edu.cn/)
 2. 硕士,地理学,北京大学
@@ -30,7 +30,7 @@ redirect_from:
 
 
 
-主要科研活动：
+主要科研活动
 ======
 1. 国家科技部, 国家重点研发计划, 2022YFC0869800, “国家疫情防控发现、研判、预警三位一体平台关键技术研究与应用”项目，“居家健康监测数据融合可信共享模型研究” 任务, 2021-11 至 2023-10
 2. 国家科技部, 国家重点研发计划, 2019YFB2101705, “智慧城市网络信息安全综合免疫关键技术与应用示范”项目课题五“关键技术仿真验证与应用示范”, 2019-12 至 2023-11
@@ -39,7 +39,7 @@ redirect_from:
 
 
 
-近期论文：
+近期论文
 ======
 1. Hu Huang, Bowen Zhang, Liwen Jing, Xianghua Fu, Xiaojun Chen, and Jianyang Shi. "Logic tensor network with massive learned knowledge for aspect-based sentiment analysis." Knowledge-Based Systems 257 (2022): 109943. 
 2. Hu Huang, Bowen Zhang, Yangyang Li, Baoquan Zhang, Yuxi Sun, Chuyao Luo, and Cheng Peng. "Knowledge-enhanced Prompt-tuning for Stance Detection." ACM Transactions on Asian and Low-Resource Language Information Processing 22, no. 6 (2023): 1-20.
@@ -48,7 +48,7 @@ redirect_from:
 
 
 
-授权发明专利：
+授权发明专利
 ======
 1. 黄虎等; 一种引导式的人才政策福利计算方法及装置, 2023-8-04, 中国, ZL202011318384.2
 2. 黄虎等; 城市传染病高风险社区识别方法、装置、电子设 备及介质, 2021-4-23, 中国, ZL202011321234.8
