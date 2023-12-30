@@ -21,9 +21,9 @@ I am Huang Hu, a Doctor of Engineering in Cyberspace Security, Senior Engineer. 
 
 
 ## Education
-&#x2022;Ph.D., &ensp; Cyberspace Security, &ensp; [University of Science and Technology of China](https://www.ustc.edu.cn/)<br>
-&#x2022;M.Sc., &ensp; Geography, &ensp; [Peking University](https://www.pku.edu.cn/)<br>
-&#x2022; B.Engr., &ensp; Urban Planning, &ensp;  [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+&#x2022;Ph.D., Cyberspace Security, [University of Science and Technology of China](https://www.ustc.edu.cn/)<br>
+&#x2022;M.Sc., Geography, [Peking University](https://www.pku.edu.cn/)<br>
+&#x2022; B.Engr., Urban Planning, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 <br/><br/>
 
 
