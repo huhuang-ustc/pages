@@ -11,7 +11,7 @@ title                    : "Huang Hu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://huanghu-pku.github.io/pages
+url                      : https://huhuang-ustc.github.io/pages
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huhuang-ustc.github.io/pages/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
