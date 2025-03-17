@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huang Hu"
+title                    : "Hu Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -89,7 +89,7 @@ author:
   googlescholar    : #""
   email            : "huanghu@ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : #"https://huanghu-pku.github.io/pages/"
+  uri              : #"https://huhuang-ustc.github.io/pages/"
   bitbucket        :
   codepen          :
   dribbble         :
