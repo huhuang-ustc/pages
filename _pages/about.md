@@ -26,9 +26,9 @@ In industry practice, Dr. Huang has directed the development of data intelligenc
 
 
 ## Education
-&#x2022; Ph.D., [University of Science and Technology of China](https://www.ustc.edu.cn/)<br>
-&#x2022; M.Sc., [Peking University](https://www.pku.edu.cn/)<br>
-&#x2022; B.Engr., [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+&#x2022; Ph.D., 中国科学技术大学，[University of Science and Technology of China](https://www.ustc.edu.cn/)<br>
+&#x2022; M.Sc., 北京大学，[Peking University](https://www.pku.edu.cn/)<br>
+&#x2022; B.Engr., 华中科技大学，[Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 <br/><br/>
 
 
