@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://huanghu-pku.github.io/pages
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huanghu-pku.github.io/pages/"
+repository               : "huhuang-ustc.github.io/pages/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huang Hu"
+  name             : "Hu Huang"
   avatar           : "hh-photo.png"
   bio              : "Associate Research Fellow"
-  location         : "Shenzhen, Guangdong Province"
+  location         : "Hefei, Anhui Province"
   employer         :
-  pubmed           : #"https://huanghu-pku.github.io/pages/"
+  pubmed           : #"https://huhuang-ustc.github.io/pages/"
   googlescholar    : #""
-  email            : "h.huang@pku.edu.cn"
+  email            : "huanghu@ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://huanghu-pku.github.io/pages/"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/huanghu-pku"
+  github           : "https://github.com/huhuang-ustc"
   google_plus      :
   keybase          :
   instagram        :
