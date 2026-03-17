@@ -42,8 +42,8 @@ He has been granted 15 national invention patents. His relevant research outcome
 
 ## Recent Papers
 &#x2022; [1] Bowen Zhang, Zhichao Huang, Guangning Xu, Xiaomao Fan, Mingyan Xiao, Genan Dai, __Hu Huang\*__."Core Knowledge Learning Framework for Graph." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 39, no. 12, pp. 13179-13187. 2025.<br>
-&#x2022; [2] Fuqiang Niu, Zebang Cheng, Xianghua Fu, Xiaojiang Peng, Genan Dai, Yin Chen, __Hu Huang\*__, and Bowen Zhang*."Multimodal multi-turn conversation stance detection: A challenge dataset and effective model." In Proceedings of the 32nd ACM international conference on multimedia (ACM MM), pp. 3867-3876. 2024.<br>
-&#x2022; [3] Bowen Zhang, Yi Yang, Fuqiang Niu , Xianghua Fu , Genan Dai*, and __Hu Huang\*__."SPARK: Simulating the Co-evolution of Stance and Topic Dynamics in Online Discourse with LLM-based Agents." Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 2025.<br>
+&#x2022; [2] Fuqiang Niu, Zebang Cheng, Xianghua Fu, Xiaojiang Peng, Genan Dai, Yin Chen, __Hu Huang\*__, and Bowen Zhang\*."Multimodal multi-turn conversation stance detection: A challenge dataset and effective model." In Proceedings of the 32nd ACM international conference on multimedia (ACM MM), pp. 3867-3876. 2024.<br>
+&#x2022; [3] Bowen Zhang, Yi Yang, Fuqiang Niu , Xianghua Fu , Genan Dai\*, and __Hu Huang\*__."SPARK: Simulating the Co-evolution of Stance and Topic Dynamics in Online Discourse with LLM-based Agents." Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 2025.<br>
 &#x2022; [4] Sicheng Zhao, Hui Chen, Baoquan Zhang, __Hu Huang\*__ , Pengfei Xu, and Guiguang Ding." More is Better: Deep Domain Adaptation with Multiple Sources." Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI), 2024.<br>
 &#x2022; [5] __Hu Huang__, Bowen Zhang, Liwen Jing, Xianghua Fu, Xiaojun Chen, and Jianyang Shi. "Logic tensor network with massive learned knowledge for aspect-based sentiment analysis." Knowledge-Based Systems 257 (2022): 109943.
 <br/><br/>
