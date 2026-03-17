@@ -54,5 +54,5 @@ He has been granted 15 national invention patents. His relevant research outcome
 &#x2022;[3] 一种面向时间演化的社交机器人账号检测方法和系统。<br>
 &#x2022;[4] 一种基于大五人格的立场检测方法和系统。<br>
 &#x2022;[5] 一种面对特定场景生成MBTI 心理量表的方法和系统。
-<br/><br
+<br/><br/>
 
